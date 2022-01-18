@@ -1,4 +1,4 @@
-# Login-and-Register-MERN
+# TODO List App in NUXT JS
 
 ## Original project by Tyler Potts, on "Build a TODO List App in NUXT JS using VUEX" (link below) :point_up:
 - https://www.youtube.com/watch?v=a02jXHb3_Rs
@@ -28,4 +28,5 @@ yarn dev
 ```
 
 ## Features :hammer_and_wrench:
+- Nuxt.js
 - Vue.js
