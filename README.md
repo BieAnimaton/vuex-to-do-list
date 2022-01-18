@@ -15,7 +15,7 @@ This is project to simulate a TODO LIST in Vuex
 # Create folder for store the files, like 'vuex-to-do-list'
 
 # Clone the project
-git clone https://github.com/BieAnimaton/Login-and-Register-MERN
+git clone https://github.com/BieAnimaton/vuex-to-do-list
 
 # Install the dependencies
 yarn install
@@ -28,5 +28,4 @@ yarn dev
 ```
 
 ## Features :hammer_and_wrench:
-- Nuxt.js
 - Vue.js
