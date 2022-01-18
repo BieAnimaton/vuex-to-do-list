@@ -5,7 +5,7 @@
 
 This is project to simulate a TODO LIST in Vuex
 
-## Image
+## Image :camera:
 ![vtd1](https://user-images.githubusercontent.com/52220244/149940246-ea8d6717-e674-4724-ba16-6ecd4ea9839f.JPG)
 
 ![vtd2](https://user-images.githubusercontent.com/52220244/149940250-1c9df5f8-d880-4f7e-a80d-35f17b186421.JPG)
